@@ -6,4 +6,6 @@ Git tracks changes of files.
 Pull test for git
 Creating a new branch is quick & simple, on master branch
 
-second branch.
+second branch
+
+test for stash.
